@@ -40,8 +40,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~TR0AQCiD#fszi6ZkMJzatpsQI0t420JfkFz2I7mrqMw48j5Gg_JA",
-SUDO: process.env.SUDO || ["919961492108","919961492108"],
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~rYkhCaCI#HMEh2X0RA2GpnDQ5DFUSyq2a_RSNv8EO1FU_KhS_5L0",
+SUDO: process.env.SUDO || ["94758775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> TINTU XPRO\n> Developed by Mr. TINTUMOWN\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
+FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashimika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
 };
